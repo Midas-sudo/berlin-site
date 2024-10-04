@@ -1,0 +1,9 @@
+{
+  "name": "Viagem a Berlim",
+  "short_name": "Berlim",
+  "description": "Um guia de uma viagem a Berlim",
+  "start_url": "index.html",
+  "display": "standalone",
+  "theme_color": "#ffae00",
+  "background_image": "#FFFFFF"
+}
